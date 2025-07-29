@@ -1,0 +1,46 @@
+Step 2: Purpose & Scope Definition
+1.1. Objective
+Goal: Define what this repository is for, who it’s intended to help, and which scenarios it covers.
+
+Audience: Java backend developers and SDETs, whether starting new projects or working with legacy Spring Boot services.
+
+1.2. Inputs
+None required. This step is foundational.
+
+1.3. Activities
+Draft a concise introductory section (for README.md) that captures the following:
+
+The repository’s main aim: guiding teams to use GitHub Copilot for creating and maintaining unit, integration, API, and regression tests for any Java Spring Boot backend.
+
+Project-agnostic design, enabling use for new, legacy, and modernization efforts.
+
+Emphasis on artifact-driven, stepwise documentation.
+
+Encouragement for both newcomers and experienced engineers to benefit from reusable prompts, templates, checklists, and practical validation methods.
+
+1.4. Sample Content for README.md or Scope.md
+text
+## springboot-copilot-test-playbook
+
+This repository is a complete, hands-on guide for using GitHub Copilot to generate and optimize automated tests (unit, integration, API, regression) in any Java Spring Boot backend project.
+
+**Key Features:**
+- Application-agnostic and modular—works for new, legacy, or evolving codebases.
+- Step-by-step instructions, high-impact Copilot prompt templates, and practical artifacts at every stage.
+- Designed for backend developers and SDETs, regardless of prior Copilot or test automation experience.
+- Focuses on artifact-driven learning: every step produces reusable examples, validation checklists, metrics, and best practices.
+
+**Intended Outcomes:**
+- Accelerate high-quality test creation.
+- Enable safe, maintainable, and future-proof code delivery.
+- Foster best practices for test validation and prompt engineering with Copilot.
+
+_Next steps: environment and tool setup_.
+1.5. Expected Output
+A completed Purpose & Scope section in your repository (add to README.md or a separate Scope.md according to your structure).
+
+Do this now:
+
+Add or update the above draft to your repo.
+
+Confirm once done, and I will guide you through the next step: Environment & Tool Setup, including a checklist, artifacts, and practical setup advice.

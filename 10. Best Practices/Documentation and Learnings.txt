@@ -1,0 +1,12 @@
+Documentation and Learnings
+
+Add real-time notes as you go:
+
+ What worked, what didn’t
+
+ How Copilot reacted to prompt variations
+
+ When manual intervention was critical
+
+
+Best practices doc per section + at the root level

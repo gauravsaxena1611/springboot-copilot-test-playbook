@@ -1,0 +1,5 @@
+What to include for best Copilot performance (class/method context, dependencies, expected behavior)
+
+How to recognize hallucinations or brittle tests
+
+Prompt refinement patterns

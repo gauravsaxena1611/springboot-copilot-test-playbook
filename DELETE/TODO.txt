@@ -1,0 +1,15 @@
+Add your completed testing types document as introduction/testing-types.md (or similar).
+
+In your README.md, summarize the playbook’s purpose and what readers will accomplish.
+
+
+🎯 Optional Enhancements (as next phase)
+
+Add videos or screenshots of using Copilot for each step.
+
+Build an issue template for contributors to add Copilot prompt examples from their own projects.
+
+Add Copilot vs. Manual vs. TDD comparison experiments.
+
+
+

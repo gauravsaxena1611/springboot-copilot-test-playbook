@@ -1,0 +1,7 @@
+Validation and Metrics
+
+Copilot accuracy examples (correct vs. flawed tests)
+
+Code coverage examples (before/after Copilot-driven test additions)
+
+GitHub Actions or Maven plugin integration for CI-based coverage and linting
